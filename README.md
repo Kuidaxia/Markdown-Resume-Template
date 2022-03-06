@@ -12,7 +12,8 @@
 
 * 成都信息工程大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2014.9~2018.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-软件方向-本科  
 * 成都淞幸科技有限责任公司&emsp;&emsp;&emsp;&emsp;&emsp;2017.11~2020.12&emsp;&emsp;&emsp;开发部
-* 成都屋檐心语网络科技有限公司&emsp;&emsp;&emsp;2020.5~2021.5 &emsp;&emsp;&emsp;&emsp;技术部       
+* 成都屋檐心语网络科技有限公司&emsp;&emsp;&emsp;2020.5~2021.5 &emsp;&emsp;&emsp;&emsp;技术部
+* 四川秉吉企业咨询服务有限公司&emsp;&emsp;&emsp;2020.5~2022.2 &emsp;&emsp;&emsp;&emsp;技术部        
 
 ## 专业技能
 
